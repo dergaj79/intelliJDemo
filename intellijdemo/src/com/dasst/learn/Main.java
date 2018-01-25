@@ -9,5 +9,7 @@ public class Main {
         System.out.println("Test intellij Demo!!!");
         System.out.println("Test intellij Demo!!!");
         System.out.println("Test intellij Demo!!!");
+
+        System.out.println("Add commit to github");
     }
 }
